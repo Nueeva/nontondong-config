@@ -96,13 +96,13 @@
     ]
   },
   "update": {
-    "versionCode": 80,
-    "versionName": "2.15.26",
-    "apkUrl": "https://api.apexsions.com/releases/NontonDong-2.15.26.apk",
-    "sizeBytes": 1739177,
-    "sha256": "573834739f07be3a0efaf472b56acd8cbdcd7dcceeb1ed1a49b90f815efd744c",
-    "notes": "Baru: video yang ditonton disimpan sebentar di HP, jadi mundur atau ulang adegan tidak buffering lagi. Layar melayang (PiP) sekarang punya tombol mundur, putar/jeda, dan maju, plus masuk otomatis di Android 12+. Gestur pemutar bisa diatur satu per satu, ada pilihan streaming hanya lewat Wi-Fi, dan subtitle bisa ditebalkan. Unduhan lama bisa terhapus otomatis, atur di menu Unduhan. Sampul kini dipotong dari atas agar wajah tidak kepotong, dan ada perbaikan crash saat keluar dari pemutar serta tombol halaman detail yang kepotong.",
-    "publishedAt": "2026-11-22"
+    "versionCode": 81,
+    "versionName": "2.15.27",
+    "apkUrl": "https://api.apexsions.com/releases/NontonDong-2.15.27.apk",
+    "sizeBytes": 1739905,
+    "sha256": "b8223aac63f34df5d3cf3ad731316e2750920d1816019e2b4bf28fd60befe064",
+    "notes": "Baru: pencarian lebih pintar — cari pakai singkatan atau judul lain (misalnya BTTH untuk Battle Through the Heavens) tetap ketemu. Ada tombol Lapor Rusak di layar error pemutar: sekali sentuh, stream rusak dilaporkan dan langsung dimuat ulang dari server lain. Pemutar juga lebih tahan macet — kalau buffering berhenti lama di tengah episode, sekarang otomatis pindah server tanpa mengulang dari awal.",
+    "publishedAt": "2026-11-23"
   },
   "min_supported_version": 0,
   "maintenance": {
